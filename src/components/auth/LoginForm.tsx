@@ -171,9 +171,8 @@ const LoginForm: React.FC<LoginFormProps> = ({ onSwitchToRegister }) => {
           </div>
         </div>
       </div>
+    </div>
   );
 };
 
 export default LoginForm;
-  )
-}
